@@ -5,7 +5,7 @@ import TopNav from "../component/Navbar";
 import BreadCrumb from "../component/Breadcrumb";
 import tn1 from "../img/tn1.png";
 import doseLogo from "../img/doseTeamLogo.png";
-import "../src/style.css";
+import "/src/style.css";
 
 const URL = "https://backend21-service-dev.up.railway.app/articles/:id";
 
