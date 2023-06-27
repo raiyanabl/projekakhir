@@ -1,0 +1,21 @@
+.text-decoration-none
+{
+    color: rgb(0, 0, 0);
+}
+
+.text-decoration-non
+{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+.fnav
+{
+    background-color: #ffffff;
+    top: 0;
+    position: fixed;
+    width: 100%;
+    
+}
+
+
+
