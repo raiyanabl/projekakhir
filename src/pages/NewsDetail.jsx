@@ -1,6 +1,6 @@
 import React, { useEffect } from "react";
 import { useParams } from "react-router-dom";
-import "../style.css";
+import "../src/style.css";
 import Container from "react-bootstrap/Container";
 import TopNav from "../component/Navbar";
 import BreadCrumb from "../component/Breadcrumb";
